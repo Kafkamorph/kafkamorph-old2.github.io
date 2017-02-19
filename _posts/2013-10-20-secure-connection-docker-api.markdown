@@ -23,7 +23,7 @@ a similar crypto library) to do the wrapping directly.
 
 ## A few words about certificates
 
-I won't do a full intro do [public key crypto]; but the basic idea
+I won't do a full intro to [public key crypto]; but the basic idea
 is the following:
 
 - the server (i.e. Docker) and each client connecting to it have
