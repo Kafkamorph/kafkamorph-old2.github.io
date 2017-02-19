@@ -8,10 +8,6 @@ exists. The fact that it is possible (and relatively easy) to compute this
 metric means that it will be possible (and relatively easy) to improve it,
 among other things.
 
-Disclaimer: I work for Docker, and while this post is not sponsored or
-approved by my employer, you are obviously welcome to take it with a
-grain of salt.
-
 The original number was published on [BanyanOps Blog]. 
 
 For more information and another point of view, you can also read
